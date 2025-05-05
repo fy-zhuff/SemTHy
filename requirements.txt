@@ -1,0 +1,17 @@
+charset-normalizer==2.1.1
+colorama==0.4.6
+colorlog==6.7.0
+numpy==1.24.1
+pandas==1.4.3
+tensorboard==2.14.0
+tensorboard-data-server==0.7.1
+tensorboardX==2.6.1
+tokenizers==0.11.4
+torch==1.13.1+cu116
+torchaudio==0.13.1+cu116
+torchsummary==1.5.1
+torchvision==0.14.1+cu116
+tornado==6.2
+tqdm==4.65.0
+traitlets==5.9.0
+transformers==4.24.0
